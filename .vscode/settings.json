@@ -1,3 +1,5 @@
 {
-    "**&zwnj;/.*": false
+    "files.exclude": {
+        "**/.*": false
+    }
 }
