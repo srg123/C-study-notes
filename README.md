@@ -1,2 +1,15 @@
-# C-study-notes
-learning notes
+# 📚 我的学习笔记
+- [系统](./Systerm/)
+- [客户端](./Frontend/)
+- [后端](./Backend/)
+- [服务端](./ServerSide/)
+- [软件](./Software/)
+- [硬件](./Hardware/)
+- [图形学](./Graphics/)
+- [计算机视觉](./Opencv/)
+- [网络](./Network/)
+- [编程](./Programming/)
+- [Webgl/webgpu](./webgl/)
+- [Oengl/vulkan](./opengl/)
+- [人工智能](./AI/)
+
