@@ -11,7 +11,7 @@
 - [图形学](./Graphics/)
 - [计算机视觉](./Opencv/)
 - [网络](./Network/)
-- [编程语言](./Programming/C语言/C基础.md)
+- [编程语言](./Docs//编程语言/C语言/C基础.md)
 - [Webgl/webgpu](./webgl/)
 - [Oengl/vulkan](./opengl/)
 - [人工智能](./AI/)
