@@ -2,6 +2,7 @@
 node_modules
 /dist
 /hello.dSYM
+/Programming/C/hello*
 # local env files
 .env.local
 .env.*.local
