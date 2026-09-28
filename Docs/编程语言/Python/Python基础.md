@@ -24,3 +24,7 @@
   ### 人工智能‌：接触 PyTorch 或 TensorFlow（需较强数学基础）
   
 - [所有代码案例位置]( ../../../Programming/Python)
+- - [学习总结](./笔记.md)
+
+
+
